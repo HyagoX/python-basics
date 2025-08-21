@@ -65,9 +65,9 @@ idade = input('Informe sua idade: ')
 print(nome, idade, sep=' - ', end='!\n')
 ```
 
-## 🎯 Objetivos de Aprendizado
+## 🎯 Conceitos Aprendidos
 
-Após estudar estes códigos, você deve ser capaz de:
+Após estes códigos, aprendi os seguintes conceitos:
 
 1. **Trabalhar com variáveis**: Criar, modificar e usar variáveis em Python
 2. **Entender tipos de dados**: Reconhecer diferentes tipos e fazer conversões
@@ -78,15 +78,6 @@ Após estudar estes códigos, você deve ser capaz de:
 
 1. Um programa que pede nome, idade e cidade, e exiba uma mensagem personalizada
 2. Uma calculadora simples que aceite dois números e mostre diferentes tipos de divisão
-3. Diferentes formatações usando os parâmetros do `print()`
-
-## 💡 Dicas de Estudo
-
-- Practice os exemplos modificando os valores
-- Teste diferentes tipos de entrada nos programas
-- Observe como Python lida automaticamente com tipos
-- Use `type()` para explorar diferentes variáveis
-
 ---
 
 *Desenvolvido durante aula de Python - Fundamentos da Linguagem*
